@@ -1,2 +1,2 @@
 # bookbot
-bot for da book
+Bot for ze book.
