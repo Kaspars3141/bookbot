@@ -1,2 +1,2 @@
 # bookbot
-Bot for ze book.
+#Bot for ze books.
